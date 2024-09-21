@@ -1,0 +1,96 @@
+1. Thank You Email
+To: Abhishek@gmail.com
+Subject: Thank You for Your Assistance
+
+Dear Sir,
+
+I hope this email finds you well. I am writing to express my sincere gratitude for your invaluable assistance with my JSP CRUD project. Your guidance and support played a critical role in its successful completion, and I truly appreciate the time and effort you dedicated to helping me.
+
+Please let me know if there is anything I can do to return the favor. I look forward to continuing our collaboration.
+
+Best regards,
+Abhishek Gaud
+
+2. Email of Inquiry for Requesting Information
+To: Abhishek@gmail.com
+Subject: Request for Information Regarding Soft Skills Program
+
+Dear Sir,
+
+I hope you are doing well. I am writing to request more information regarding the Soft Skills program that Tops Technologies recently announced. I would appreciate it if you could provide any available brochures, specifications, and pricing details at your earliest convenience.
+
+Thank you in advance for your assistance. I look forward to your response.
+
+Best regards,
+Abhishek Gaud
+
+3. Email Asking for a Raise in Salary
+To: Abhishek@gmail.com
+Subject: Request for Salary Review
+
+Dear Sir,
+
+I hope this message finds you well. I would like to take this opportunity to discuss my current salary and the possibility of a raise. Over the past 15 months, I have made significant contributions to the HR role-playing initiatives in our company.
+
+Given my accomplishments and commitment to the company, I believe it is a suitable time to review my compensation. I would appreciate the opportunity to discuss this further and explore the next steps.
+
+Thank you for your time and consideration.
+
+Best regards,
+Abhishek Gaud
+
+4. Resignation Email
+To: Abhishek@gmail.com
+Subject: Resignation Due to New Opportunities
+
+Dear Sir,
+
+I hope this email finds you well. It is with mixed emotions that I submit my formal resignation as a Full Stack Developer from Tops Technologies.
+
+I want to express my heartfelt gratitude for the invaluable opportunities and experiences I’ve had while working here. The support and encouragement I received from you and the team have been truly appreciated. I am committed to ensuring a smooth transition and will assist with any ongoing projects.
+
+Please let me know how I can help during this transition period.
+
+Warm regards,
+Abhishek Gaud
+
+5. Reminder Email
+To: Abhishek@gmail.com
+Subject: Gentle Reminder: Java Assessment Due Soon
+
+Dear Sir,
+
+I hope you're doing well. I am sending a gentle reminder regarding the upcoming Java Assessment, which is due on 21 September. Please let me know if there are any updates or if any further assistance is required.
+
+I appreciate your attention to this matter and look forward to your response.
+
+Best regards,
+Abhishek Gaud
+
+6. Apology Email
+To: Abhishek@gmail.com
+Subject: Apology for Leaving Classes Without Notice
+
+Dear Sir,
+
+I hope this email finds you well. I would like to extend my sincerest apologies for leaving classes without providing prior notice. It was never my intention to cause any inconvenience, and I take full responsibility for this oversight.
+
+I am taking steps to ensure this does not happen again in the future. I appreciate your understanding and patience in this matter.
+
+Thank you once again, and please feel free to reach out if further clarification is needed.
+
+Best regards,
+Abhishek Gaud
+
+7. Quotation Email
+To: Abhishek@gmail.com
+Subject: Quotation for Service Bills
+
+Dear Sir,
+
+I hope you're doing well. Please find attached the requested quotation for the service bills. The details include pricing, the delivery timeline, and the terms of service.
+
+Should you have any questions or require additional information, please feel free to reach out. We look forward to the opportunity to work with you.
+
+Best regards,
+Abhishek Gaud
